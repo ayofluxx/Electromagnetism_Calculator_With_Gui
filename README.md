@@ -1,4 +1,4 @@
-## Magnetism Calculator - Readme
+## ElectroMagnetism Calculator with Python and Kivy - Readme
 
 This is a Python application using Kivy to perform various calculations in magnetism and electromagnetism.
 
