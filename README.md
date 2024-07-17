@@ -18,7 +18,7 @@ This is a Python application using Kivy to perform various calculations in magne
 3. **Run the application**: Open a terminal, navigate to the directory where you saved the file, and run the following command:
 
 ```bash
-python magnetism_calculator.py
+python main.py
 ```
 
 This will launch the application with a graphical user interface (GUI).
